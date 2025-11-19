@@ -7,5 +7,7 @@
 ## Fun Facts
 
 -I like anime and basketball
+
 -I hit the gym once in a while
+
 -I'm into discovering new music
