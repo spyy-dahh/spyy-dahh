@@ -4,7 +4,7 @@
 
 -I'm currently finding my way through this tech scene
 
-##Fun Facts
+## Fun Facts
 
 -I like anime and basketball
 -I hit the gym once in a while
