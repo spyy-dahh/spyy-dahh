@@ -1,2 +1,2 @@
-# 🦖 https://www.google.com/imgres?q=wassuh%20dude%20gif&imgurl=https%3A%2F%2Fmedia.tenor.com%2F6PnXLevsG-8AAAAM%2Fsuhdude-dudesuh.gif&imgrefurl=https%3A%2F%2Ftenor.com%2Fsearch%2Fsuh-dude-gifs&docid=72q1w1V_VuRYMM&tbnid=03It3lJHSwHm6M&vet=12ahUKEwirseDxjaiWAxVvQkEAHWAGPW0QnPAOegQISRAA..i&w=220&h=220&hcb=2&ved=2ahUKEwirseDxjaiWAxVvQkEAHWAGPW0QnPAOegQISRAA Wassup my dudes and dudettes 🦖
+# 🦖Wassup my dudes and dudettes 🦖
 # I'm Chris
