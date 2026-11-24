@@ -14,9 +14,7 @@
 
 I'm a final-year Software Development student interested in building useful software and learning how things work behind the screen.
 
-When I'm not coding, I enjoy basketball, music, art, and exploring tech—including trying Linux distributions like Linux Mint. I like keeping things curious, creative, and a little bit fun.
-
-> Great projects aren't built in one leap. Sometimes it's one small swing at a time.
+When I'm not coding, I enjoy basketball, music, art, and exploring tech, including trying Linux distributions like Linux Mint (slightly scary stuff icl).
 
 ## 💻 Languages
 
@@ -77,8 +75,8 @@ These are languages and web technologies I've worked with. I'm still learning an
 
 Add a few projects here as you build them. A short description helps visitors understand what each one does.
 
-- **[Project name](YOUR_PROJECT_LINK)** — A sentence about what it does and what you learned.
-- **[Project name](YOUR_PROJECT_LINK)** — A sentence about what it does and what you learned.
+- **[RaceDay](https://github.com/spyy-dahh/RaceDay)** — A web-based event management system designed for South African road running, walking, and cycling events. 
+- **[Kagoyarona Scents](https://github.com/spyy-dahh/kagoyaronascents-website)** — A viewing website for difference fragrances e.g candles, incense, etc..
 
 ## 📡 Find me
 
@@ -86,7 +84,7 @@ Add only the contact links you want to share publicly.
 
 - **GitHub:** [@spyy-dahh](https://github.com/spyy-dahh)
 - **LinkedIn:** -to be added
-- **Email:** [boikanyodimpho123@gmail.com]
+- **Email:** [boikanyodimpho123@gmail.com](boikanyodimpho123@gmail.com)
 
 ---
 
