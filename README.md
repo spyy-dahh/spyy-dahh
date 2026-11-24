@@ -85,8 +85,8 @@ Add a few projects here as you build them. A short description helps visitors un
 Add only the contact links you want to share publicly.
 
 - **GitHub:** [@spyy-dahh](https://github.com/spyy-dahh)
-- **LinkedIn:** [Add your profile link]
-- **Email:** [Add a public contact email, if you want]
+- **LinkedIn:** -to be added
+- **Email:** [boikanyodimpho123@gmail.com]
 
 ---
 
